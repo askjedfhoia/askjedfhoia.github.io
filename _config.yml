@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "超影3000分" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "超影3000分"
 title_separator          : "-"
 name                     : &name "火影大王"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
